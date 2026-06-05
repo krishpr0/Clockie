@@ -49,3 +49,21 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 
 
+## CAD
+<img width="967" height="663" alt="Screenshot 2026-06-05 172806" src="https://github.com/user-attachments/assets/ce7de4e3-047f-4a2f-8db2-4859c769182c" />
+<img width="966" height="584" alt="Screenshot 2026-06-05 172549" src="https://github.com/user-attachments/assets/f063e0fc-9e18-430d-9e42-abc946ed8a4e" />
+<img width="880" height="666" alt="Screenshot 2026-06-05 172821" src="https://github.com/user-attachments/assets/aa6a4d3a-1b20-41d1-ac5e-185a8b88f1d6" />
+<img width="772" height="742" alt="Screenshot 2026-06-05 172829" src="https://github.com/user-attachments/assets/ae48700f-b6d0-43d3-afe4-98b74033d1b2" />
+
+
+
+
+## Circuit Diagram:
+<img width="749" height="526" alt="image" src="https://github.com/user-attachments/assets/e2644cec-e458-4b86-bf2b-aa70f14dae12" />
+<img width="360" height="237" alt="image" src="https://github.com/user-attachments/assets/22a5329a-65bf-4183-b988-642860ac548a" />
+
+
+
+
+
+
