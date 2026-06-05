@@ -60,7 +60,16 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 ## Circuit Diagram:
 <img width="749" height="526" alt="image" src="https://github.com/user-attachments/assets/e2644cec-e458-4b86-bf2b-aa70f14dae12" />
-<img width="360" height="237" alt="image" src="https://github.com/user-attachments/assets/22a5329a-65bf-4183-b988-642860ac548a" />
+
+### PCB
+<img width="880" height="666" alt="image" src="https://github.com/user-attachments/assets/22a5329a-65bf-4183-b988-642860ac548a" />
+
+
+## PCB 3D 
+<img width="764" height="495" alt="image" src="https://github.com/user-attachments/assets/1795f8d6-f2d0-44b5-b31f-de10a2651c46" />
+<img width="546" height="378" alt="image" src="https://github.com/user-attachments/assets/6eaf32e5-101f-460d-babf-4884a935661e" />
+<img width="506" height="622" alt="image" src="https://github.com/user-attachments/assets/4d6a22df-fce1-455c-9a27-d7191cc7425d" />
+
 
 
 
