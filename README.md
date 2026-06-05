@@ -44,3 +44,8 @@ I needed an good alarm clock really really baddly beacuse we have classes from 5
 
 Well starting from my everyday life, a normal alarm has been a hassel and a mess. First of all if u look at it at night the display would be soo freaking bright that the eyes woule evaporate. and also the display would be either too small or too big, The traditional alarm clock has always been boring, simple, and not fun; We would say alarm clock is just an alarm clock why make it advance? butt nahh we can make it morea advance to make our life easier.
 
+and so yeah  the main reaons I built it wwas that i could wake up early in da mornig and also will be able to save my already bad eyes. YESz, also the time i wake up i could clearly see the time, weather, is it raning or not?, the temperature, etc. also set my notes and reminders for completeing task or anyting.
+and also one of the biggest rason was beacuse of my friend, she wanted one really bad but couldnt get her hands on one.
+
+
+
