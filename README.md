@@ -21,5 +21,26 @@ This unlocks the ability to change what the display is showing, according to wha
 
 
 ## How do we use clockie?
+hmm
 
+- THere are overall 3 buttons and a rotarty encoder and also a skude switch :)
+
+    - The buttons are A, B, C respectively from left to the right when the display is facing toward you.
+    - The encoder is on the most right side.
+ 
+    - The Button A, is for START.
+    - The Button B, is for STOP.
+    - The Button C, is for RESET.
+ 
+    - The Encoder acts as the scroll wheel which u can use to raom around the menu.
+    - If you press the Encoder shaft the built-in switch will get activated and selectes an option from the menu which you currently are hovering onto.
+ 
+
+That's all to the controls all other models wil be visible on the display.
+
+
+## AHA Reason for building this
+I needed an good alarm clock really really baddly beacuse we have classes from 5:45 am and its very strict soo havee to wake up sharp and reach there at 5:30 am. I would always wake up late lolll so I wanted to make this hoping it could help me.
+
+Well starting from my everyday life, a normal alarm has been a hassel and a mess. First of all if u look at it at night the display would be soo freaking bright that the eyes woule evaporate. and also the display would be either too small or too big, The traditional alarm clock has always been boring, simple, and not fun; We would say alarm clock is just an alarm clock why make it advance? butt nahh we can make it morea advance to make our life easier.
 
