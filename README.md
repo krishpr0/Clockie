@@ -58,8 +58,9 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 
 ## Circuit Diagram:
-<img width="749" height="526" alt="image" src="https://github.com/user-attachments/assets/e2644cec-e458-4b86-bf2b-aa70f14dae12" />
 
+<img width="784" height="555" alt="Screenshot 2026-06-07 234635" src="https://github.com/user-attachments/assets/fb090bf2-8a9b-43db-84c4-067ce5768a00" />
+<img width="478" height="380" alt="Screenshot 2026-06-08 184027" src="https://github.com/user-attachments/assets/4eeff7ac-98aa-4476-88a3-6678cef68894" />
 ### PCB
 <img width="880" height="666" alt="image" src="https://github.com/user-attachments/assets/22a5329a-65bf-4183-b988-642860ac548a" />
 
