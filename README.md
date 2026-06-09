@@ -49,10 +49,9 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 
 ## CAD
-<img width="967" height="663" alt="Screenshot 2026-06-05 172806" src="https://github.com/user-attachments/assets/ce7de4e3-047f-4a2f-8db2-4859c769182c" />
-<img width="966" height="584" alt="Screenshot 2026-06-05 172549" src="https://github.com/user-attachments/assets/f063e0fc-9e18-430d-9e42-abc946ed8a4e" />
-<img width="880" height="666" alt="Screenshot 2026-06-05 172821" src="https://github.com/user-attachments/assets/aa6a4d3a-1b20-41d1-ac5e-185a8b88f1d6" />
-<img width="772" height="742" alt="Screenshot 2026-06-05 172829" src="https://github.com/user-attachments/assets/ae48700f-b6d0-43d3-afe4-98b74033d1b2" />
+<img width="772" height="502" alt="Screenshot 2026-06-09 131551" src="https://github.com/user-attachments/assets/8d916c50-6c72-4193-84b3-5d2855a01fc4" />
+<img width="1143" height="744" alt="Screenshot 2026-06-09 131614" src="https://github.com/user-attachments/assets/3da84a36-8e3c-4192-a7e8-2777250a3f8a" />
+
 
 
 
@@ -61,15 +60,16 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 <img width="784" height="555" alt="Screenshot 2026-06-07 234635" src="https://github.com/user-attachments/assets/fb090bf2-8a9b-43db-84c4-067ce5768a00" />
 <img width="478" height="380" alt="Screenshot 2026-06-08 184027" src="https://github.com/user-attachments/assets/4eeff7ac-98aa-4476-88a3-6678cef68894" />
+
+
 ### PCB
-<img width="880" height="666" alt="image" src="https://github.com/user-attachments/assets/22a5329a-65bf-4183-b988-642860ac548a" />
+<img width="580" height="347" alt="Screenshot 2026-06-09 150422" src="https://github.com/user-attachments/assets/fe17f057-ef24-4bab-bb5c-19081a1d6159" />
 
 
 ## PCB 3D 
-<img width="764" height="495" alt="image" src="https://github.com/user-attachments/assets/1795f8d6-f2d0-44b5-b31f-de10a2651c46" />
-<img width="546" height="378" alt="image" src="https://github.com/user-attachments/assets/6eaf32e5-101f-460d-babf-4884a935661e" />
-<img width="506" height="622" alt="image" src="https://github.com/user-attachments/assets/4d6a22df-fce1-455c-9a27-d7191cc7425d" />
 
+<img width="1376" height="807" alt="Screenshot 2026-06-09 071740" src="https://github.com/user-attachments/assets/774acdb5-7a3e-43cc-8ea5-72968d6397e9" />
+<img width="942" height="534" alt="Screenshot 2026-06-09 150400" src="https://github.com/user-attachments/assets/b574b1d0-979f-49e9-9d17-5bba56e53ec9" />
 
 
 
