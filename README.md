@@ -121,7 +121,7 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 # Feature
 - **Wifi & BLE capabilities**
-- ** 3 buttons & enconder**
+- **3 buttons & enconder**
 - **3.2 inch TFT display**
 - **ESP32-S3**
 - **Temperature & Humiditiy sensor**
