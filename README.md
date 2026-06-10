@@ -117,3 +117,32 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 | TOTAL |                 |              |                             |           | 203 |                  |                  | ₹7,587.41    |                                                    |
 
 
+
+
+# Feature
+- **Wifi & BLE capabilities**
+- ** 3 buttons & enconder**
+- **3.2 inch TFT display**
+- **ESP32-S3**
+- **Temperature & Humiditiy sensor**
+- **Ambient light sensor**
+- **Haptic feedback**
+- **Supports 2 speakers**
+- **LED Matrix**
+- **RTC**
+- **BMS and charger**
+
+
+# Hardware
+|  Component | Description
+|---|---|
+| MCU | Seeed Studio XIAO ESP32-S3 |
+| 2-Pin Terminal | WJ301V-5.0-02P-12-00A |
+| Connectivity | Bluetooth, WIFI |
+| Encoders | Rotary Encoders (360 Degree Rotary Encoder EC16) |
+| Buttons | Tacticle Buttons|
+| PCB | Custom Designes |
+| Case | Themed Fracture Enclosure |
+
+
+
