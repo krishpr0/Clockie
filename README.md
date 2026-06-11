@@ -73,8 +73,8 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 <img width="942" height="534" alt="Screenshot 2026-06-09 150400" src="https://github.com/user-attachments/assets/b574b1d0-979f-49e9-9d17-5bba56e53ec9" />
 
 
-
-[Uploading tableConvert| #     | Designator      | Footprint    | Description                 | LCSC #    | Qty | Unit Price (USD) | Unit Price (NPR) | Amount (NPR) | Link                                               |
+[tableConvert.com_3jk98l.md](https://github.com/user-attachments/files/28841686/tableConvert.com_3jk98l.md)
+| #     | Designator      | Footprint    | Description                 | LCSC #    | Qty | Unit Price (USD) | Unit Price (NPR) | Amount (NPR) | Link                                               |
 |-------|-----------------|--------------|-----------------------------|-----------|-----|------------------|------------------|--------------|----------------------------------------------------|
 | 1     | R12             | R0603        | 180Ω Resistor               | C94599    | 1   | $1.2381          | ₹165.29          | ₹165.29      | https://www.lcsc.com/product-detail/C94599.html    |
 | 2     | BUZZER1         | BUZ-SMD_4P   | 2.7kHz Buzzer MLT-8530      | C94599    | 1   | $0.2080          | ₹27.77           | ₹27.77       | https://www.lcsc.com/product-detail/C94599.html    |
@@ -113,7 +113,6 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 | 35    | U6,U12          | WLP-9        | MAX98357AEWL+T I2S Amp      | C2682619  | 2   | $0.4656          | ₹62.16           | ₹124.32      | https://www.lcsc.com/product-detail/C2682619.html  |
 | 36    | U3              | WSOF-6       | BH1750FVI-TR Lux Sensor     | C78960    | 1   | $0.9329          | ₹124.54          | ₹124.54      | https://www.lcsc.com/product-detail/C78960.html    |
 | TOTAL |                 |              |                             |           | 203 |                  |                  | ₹7,587.41    |                                                    |
-.com_3jk98l.md…]()
 
 
 
