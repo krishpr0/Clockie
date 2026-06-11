@@ -1,20 +1,10 @@
 
-<<<<<<< HEAD
-# CLOCKIE
-Clockie, It is an Smart Bedside clock, It is an overall clock with all the necessary daily life data.
-This project contains multiple sensors such as ambient light sensor, humditiy sensor, temperature sensor, buzzer, etc, and it also supports upto 2 speakers, which can be configurered as right and left.
-
-
-<img width="1398" height="2000" alt="zine" src="https://github.com/user-attachments/assets/f68735e3-0aba-46a1-a082-edbb8f393461" />
-
-=======
 # CLOCKIE 
 
 Clockie, It is an Smart Bedside clock, It is an overall clock with all the necessary daily life data.
 This project contains multiple sensors such as ambient light sensor, humditiy sensor, temperature sensor, buzzer, etc, and it also supports upto 2 speakers, which can be configurered as right and left.
 
 <img width="1398" height="2000" alt="Add a heading (2)" src="https://github.com/user-attachments/assets/6e7a17d6-393a-4941-aeef-b16879f94f52" />
->>>>>>> 4bbfae3a9dab207a354053b0c98a161b8b142cb6
 
 
 
@@ -129,30 +119,121 @@ and also one of the biggest rason was beacuse of my friend, she wanted one reall
 
 
 
+## How to Build
+<img width="784" height="555" alt="Screenshot 2026-06-07 234635" src="https://github.com/user-attachments/assets/fb090bf2-8a9b-43db-84c4-067ce5768a00" />
+
+### What you need
+- Soldering iron (fine tip recommended)
+- Solder wire 
+- Flux
+- Multimeter
+- USB-C cable
+
+### Assembly order
+1. Solder all SMD passives first (resistors, capacitors)
+2. Solder ICs — BQ25895, MP2307, DS3231, HDC1080, BH1750, DRV2605, MAX98357 ×2
+3. Solder ESP32-S3-WROOM-1U module
+4. Solder USB-C connector and test 5V rail with multimeter before connecting anything else
+5. Solder connectors — terminal blocks, SD card slot
+6. Solder through-hole components — buttons, encoder
+7. Connect LiPo battery via JST connector
+8. Connect display via HDR-1X9 header
+9. Solder SK6812 LED matrix on back side
+10. Flash firmware via USB-C using PlatformIO
+11. Open Serial Monitor — verify WiFi connects and sensors respond
+12. Access web UI at the IP shown in Serial Monitor
+
+### Firmware setup
+- Install PlatformIO in VS Code
+- Clone this repo
+- Edit `firmware/src/config.h` — add your WiFi SSID, password, and OpenWeatherMap API key
+- Run `pio run --target upload`
+
+
+## GPIO Pinout
+| GPIO | Function |
+|------|----------|
+| IO4  | Reset button |
+| IO5  | Encoder SW |
+| IO6  | Encoder A |
+| IO7  | Encoder B |
+| IO8  | I2C SDA |
+| IO9  | I2C SCL |
+| IO10 | TFT CS |
+| IO11 | SPI MOSI |
+| IO12 | SPI SCK |
+| IO13 | SPI MISO |
+| IO14 | TFT RS/DC |
+| IO15 | I2S LRCLK |
+| IO16 | I2S BCLK |
+| IO17 | I2S DIN |
+| IO18 | Buzzer |
+| IO19 | USB D- |
+| IO20 | USB D+ |
+| IO35 | LED matrix data |
+| IO36 | Haptic trigger |
+| IO37 | HOME button |
+| IO38 | BACK button |
+| IO39 | EXTRA button |
+| IO45 | Mic SD |
+| IO46 | SD card CS |
+| IO47 | Mic SCK |
+| IO48 | Mic WS |
+
 # Feature
-- **Wifi & BLE capabilities**
-- **3 buttons & enconder**
-- **3.2 inch TFT display**
-- **ESP32-S3**
-- **Temperature & Humiditiy sensor**
-- **Ambient light sensor**
-- **Haptic feedback**
-- **Supports 2 speakers**
-- **LED Matrix**
-- **RTC**
-- **BMS and charger**
+- Wifi & BLE capabilities
+- 3 buttons & enconder
+- 3.2 inch TFT display
+- ESP32-S3**
+- Temperature & Humiditiy sensor
+- Ambient light sensor
+- Haptic feedback
+- Supports 2 speakers
+- LED Matrix
+- RTC
+- BMS and charger
+- Prayer times (Aladhan API)
+- Google Calendar integration
+- Pomodoro timer
+- Web browser control
+- Microphone
+- MicroSD audio playback
+- Auto brightness (BH1750 ambient light sensor)
+- USB-C charging
+- Backup battery (LiPo)
 
 
 # Hardware
-|  Component | Description
-|---|---|
-| MCU | Seeed Studio XIAO ESP32-S3 |
-| 2-Pin Terminal | WJ301V-5.0-02P-12-00A |
-| Connectivity | Bluetooth, WIFI |
-| Encoders | Rotary Encoders (360 Degree Rotary Encoder EC16) |
-| Buttons | Tacticle Buttons|
-| PCB | Custom Designes |
-| Case | Themed Fracture Enclosure |
+| Component | Part |
+|-----------|------|
+| MCU | ESP32-S3-WROOM-1U-N16 |
+| Display | 3.2" ST7789 TFT HS32B01A |
+| Charger IC | BQ25895RTWR |
+| Buck converter | MSMP2307DN |
+| Audio amp | MAX98357AEWL+T ×2 (stereo) |
+| RTC | DS3231SN |
+| Temp/Humidity | HDC1080DMBR |
+| Light sensor | BH1750FVI-TR |
+| Haptic driver | DRV2605LDGSR |
+| Microphone | ICS-43434 |
+| LED matrix | SK6812MINI-B ×127 |
+| Encoder | EC11E18244A5 |
+| Buttons | 1-1825027-4 ×3 |
+| MicroSD | TF-01A |
+| USB-C | TYPE-C 16PIN 2MD |
+| PCB | Custom 2-layer JLCPCB |
+| Case | 3D printed PETG |
 
+## Web Interface
+Once powered on and connected to WiFi, open a browser on any device 
+on the same network and go to the IP address shown on the display.
 
+From the web interface you can:
+- Add and remove alarms
+- Control LED matrix mode and color
+- Start/stop Pomodoro timer
+- Adjust display brightness
+- View current weather and prayer times
+
+  
 
