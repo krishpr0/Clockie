@@ -4,7 +4,7 @@
 Clockie, It is an Smart Bedside clock, It is an overall clock with all the necessary daily life data.
 This project contains multiple sensors such as ambient light sensor, humditiy sensor, temperature sensor, buzzer, etc, and it also supports upto 2 speakers, which can be configurered as right and left.
 
-<img width="1398" height="2000" alt="Add a heading (2)" src="https://github.com/user-attachments/assets/6e7a17d6-393a-4941-aeef-b16879f94f52" />
+<img width="1398" height="2000" alt="zine" src="https://github.com/user-attachments/assets/7e5d5a49-7346-48c0-b24c-e2296fe21510" />
 
 
 
